@@ -1,21 +1,21 @@
-<!--
-author: W3layouts
-author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
--->
+
 <!DOCTYPE html>
 <html lang="zxx">
 
 <head>
-	<title>Fishing an animals and pets Category Flat Bootstrap Responsive Website Template | Home :: w3layouts</title>
+	<title>DEL ARTE contructora</title>
 	<!-- custom-theme -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-	<meta name="keywords" content="Fishing Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
-Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
-	<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
-		function hideURLbar(){ window.scrollTo(0,1); } </script>
+
+	<meta name="keywords" content="Descripción de la web " />
+
+	<script type="application/x-javascript">
+	    addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
+		function hideURLbar(){ window.scrollTo(0,1); } 
+	</script>
+
+
 	<!-- //custom-theme -->
 	<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
 	<link href="css/easy-responsive-tabs.css" rel='stylesheet' type='text/css' />
@@ -28,6 +28,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<link
 		href='//fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic'
 		rel='stylesheet' type='text/css'>
+
 </head>
 
 <body>
@@ -39,26 +40,27 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="w3_agile_header">
 					<div class="w3_agileits_logo">
 						<img style="width: 35%;" src="images/Del Arte COnstructora orb.png" alt="">
-						<!--<h1><a href="index.html">DEL ARTE<span>CONSTRUCCIONES</span</a> </h1> --></div> <div
-										class="w3_menu">
-									<div class="agileits_w3layouts_banner_info">
+						<!--<h1><a href="index.html">DEL ARTE<span>CONSTRUCCIONES</span</a> </h1> -->
+					</div>
+					<div class="w3_menu">
+						<div class="agileits_w3layouts_banner_info">
 
-									</div>
-									<div class="mobile-nav-button">
-										<div class="mobile-nav-button__line"></div>
-										<div class="mobile-nav-button__line"></div>
-										<div class="mobile-nav-button__line"></div>
-									</div>
-									<nav class="mobile-menu">
-										<ul>
-											<li><a href="#home" class="active scroll">Home</a></li>
-											<li><a href="#about" class="scroll">Qué hacemos</a></li>
-											<li><a href="#team" class="scroll">Equipo</a></li>
-											<li><a href="#services" class="scroll">Servicios</a></li>
-											<li><a href="#gallery" class="scroll">Proyectos</a></li>
-											<li><a href="#contact" class="scroll">Contacto</a></li>
-										</ul>
-									</nav>
+						</div>
+						<div class="mobile-nav-button">
+							<div class="mobile-nav-button__line"></div>
+							<div class="mobile-nav-button__line"></div>
+							<div class="mobile-nav-button__line"></div>
+						</div>
+						<nav class="mobile-menu">
+							<ul>
+								<li><a href="#home" class="active scroll">Home</a></li>
+								<li><a href="#about" class="scroll">Qué hacemos</a></li>
+								<li><a href="#team" class="scroll">Equipo</a></li>
+								<li><a href="#services" class="scroll">Servicios</a></li>
+								<li><a href="#gallery" class="scroll">Proyectos</a></li>
+								<li><a href="#contact" class="scroll">Contacto</a></li>
+							</ul>
+						</nav>
 					</div>
 
 					<div class="clearfix"></div>
@@ -825,42 +827,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					</div>
 				</div>
 				<div class="col-md-4 w3-agile-grid">
-					<!--<h5>Recent Posts</h5>
-					<div class="w3ls-post-grids">
-						<div class="w3ls-post-grid">
-							<div class="w3ls-post-img">
-								<a href="#"><img src="images/g2.jpg" alt="" /></a>
-							</div>
-							<div class="w3ls-post-info">
-								<h6><a href="#" data-toggle="modal" data-target="#myModal">Proin scelerisque, sem a
-										facilisis mollis</a></h6>
-								<p>Nov 24,2016</p>
-							</div>
-							<div class="clearfix"> </div>
-						</div>
-						<div class="w3ls-post-grid">
-							<div class="w3ls-post-img">
-								<a href="#"><img src="images/g4.jpg" alt="" /></a>
-							</div>
-							<div class="w3ls-post-info">
-								<h6><a href="#" data-toggle="modal" data-target="#myModal">Proin scelerisque, sem a
-										facilisis mollis</a></h6>
-								<p>Dec 25,2016</p>
-							</div>
-							<div class="clearfix"> </div>
-						</div>
-						<div class="w3ls-post-grid">
-							<div class="w3ls-post-img">
-								<a href="#"><img src="images/g7.jpg" alt="" /></a>
-							</div>
-							<div class="w3ls-post-info">
-								<h6><a href="#" data-toggle="modal" data-target="#myModal">Proin scelerisque, sem a
-										facilisis mollis</a></h6>
-								<p>Jan 06,2017</p>
-							</div>
-							<div class="clearfix"> </div>
-						</div>
-					</div>-->
+					
 				</div>
 				<div class="col-md-4 w3-agile-grid">
 					<h5>Dirección</h5>
