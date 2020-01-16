@@ -1,4 +1,22 @@
+<style>
+	.menu-extents{
+		list-style: none;
+	}
 
+    .menu-extents li{
+		float: left;
+		margin-top: 30px;
+		margin-left: 10px;
+		border-right: 1px solid #000;
+		padding-right: 5px;
+	}
+
+	.menu-extents li a {
+		color: #000;
+		
+	}
+
+</style>
 	<div class="banner_top" id="home">
 		<div data-vide-bg="video/v2">
 			<div class="center-container">
@@ -7,6 +25,14 @@
 						<img style="width: 35%;" src="images/Del Arte COnstructora orb.png" alt="">
 						<!--<h1><a href="index.html">DEL ARTE<span>CONSTRUCCIONES</span</a> </h1> -->
 					</div>
+					<ul class="menu-extents" >
+								<li><a href="#home" class="active scroll">Home</a></li>
+								<li><a href="#about" class="scroll">Qué hacemos</a></li>
+								<li><a href="#team" class="scroll">Equipo</a></li>
+								<li><a href="#services" class="scroll">Servicios</a></li>
+								<li><a href="#gallery" class="scroll">Proyectos</a></li>
+								<li><a href="#contact" class="scroll">Contacto</a></li>
+							</ul>
 					<div class="w3_menu">
 						<div class="agileits_w3layouts_banner_info">
 

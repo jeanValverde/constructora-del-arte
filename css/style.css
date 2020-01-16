@@ -53,7 +53,9 @@ a:focus{
     background: rgba(0, 0, 0, 0.44);
 }
 .w3_agile_header {
-    padding: 2em 5em 0 7em;
+	padding: .1em 5em 0 7em;
+	opacity: 90%;
+    background: #fff;
 }
 .w3_agile_header_left{
 	float:left;
@@ -180,7 +182,9 @@ a:focus{
     width: 40px;
     height: 40px;
 	background: #FF0000;
-    border-radius: 50%;
+	border-radius: 50%;
+	visibility: hidden;
+	display: none;
 }
 .mobile-nav-button .mobile-nav-button__line {
 	width: 30px;
@@ -1620,6 +1624,17 @@ color: #111 !important;
 	}
 }
 @media (max-width:991px){
+
+	.mobile-nav-button{
+		visibility: visible;
+		display: inline;
+	}
+
+	.menu-extents{
+		visibility: hidden;
+		display: none;
+	}
+
 	.mobile-nav-button {
 		position: fixed;
 		margin: 4em 0em 0;
