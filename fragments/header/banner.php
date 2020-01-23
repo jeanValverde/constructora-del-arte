@@ -22,10 +22,9 @@
 			<div class="center-container">
 				<div class="w3_agile_header">
 					<div class="w3_agileits_logo">
-						<img style="width: 35%;" src="images/Del Arte COnstructora orb.png" alt="">
+						<img style="width: 20%;" src="images/Del Arte COnstructora orb.png" alt="">
 						<!--<h1><a href="index.html">DEL ARTE<span>CONSTRUCCIONES</span</a> </h1> -->
-					</div>
-					<ul class="menu-extents" >
+						<ul class="menu-extents" style="float:right;" >
 								<li><a href="#home" class="active scroll">Home</a></li>
 								<li><a href="#about" class="scroll">Qué Ofrecemos</a></li>
 								<li><a href="#about" class="scroll">Clientes</a></li>
@@ -35,6 +34,8 @@
 								<li><a href="#gallery" class="scroll">Testimonios</a></li>
 								<li><a href="#contact" class="scroll">Contacto</a></li>
 							</ul>
+					</div>
+					
 					<div class="w3_menu">
 						<div class="agileits_w3layouts_banner_info">
 
