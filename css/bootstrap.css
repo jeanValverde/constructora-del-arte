@@ -1101,12 +1101,12 @@ textarea {
   line-height: inherit;
 }
 a {
-  color: #337ab7;
+  color: #DF0101 ;
   text-decoration: none;
 }
 a:hover,
 a:focus {
-  color: #23527c;
+  color: #DF0101 ;
   text-decoration: underline;
 }
 a:focus {
@@ -5762,7 +5762,7 @@ button.close {
           background-clip: padding-box;
   border: 1px solid #999;
   border: 1px solid rgba(0, 0, 0, .2);
-  border-radius: 6px;
+  border-radius: 10px;
   outline: 0;
   -webkit-box-shadow: 0 3px 9px rgba(0, 0, 0, .5);
           box-shadow: 0 3px 9px rgba(0, 0, 0, .5);
@@ -5824,7 +5824,7 @@ button.close {
 }
 @media (min-width: 768px) {
   .modal-dialog {
-    width: 600px;
+    width: 1000px;
     margin: 30px auto;
   }
   .modal-content {

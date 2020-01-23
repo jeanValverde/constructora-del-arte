@@ -9,7 +9,7 @@
 				<div class="col-lg-6 col-md-6 col-sm-6 contact-w3-agile2" data-aos="flip-left">
 					<div class="contact-agileits">
 						<h4>Contáctanos</h4>
-						<p class="contact-agile2">Constructora DEL ARTE</p>
+						<p class="contact-agile2">CONSTRUCTORA DEL ARTE</p>
 						<form action="#" method="post" name="sentMessage" id="contactForm" novalidate>
 							<div class="control-group form-group">
 								<div class="controls">

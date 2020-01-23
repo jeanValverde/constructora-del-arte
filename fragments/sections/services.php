@@ -3,7 +3,7 @@
 			<div class="agileits_w3layouts_features_grids">
 
 				<div class="col-md-4 agileits_w3layouts_features_grid">
-					<img src="https://finland.fi/wp-content/uploads/2018/01/SoloSokosHotelTorniTampere_valoteos_julkisivu_pystyENT_ID2914-350x550.jpg"
+					<img src="images/servicios.jpg"
 						alt=" " class="img-responsive" />
 				</div>
 				<div class="col-md-8 agileits_w3layouts_sercvices">
@@ -11,29 +11,10 @@
 					<div class="col-md-6 w3ls-agile-service-grid">
 						<div class="agileits-icon-grid">
 							<div class="icon-right">
-								<i class="fa fa-anchor" aria-hidden="true"></i>
-								<h5>Montajes Industriales</h5>
-								<p>Sólida infraestructura operativa para emprender obras de cualquier envergadura.</p>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-6 w3ls-agile-service-grid">
-						<div class="agileits-icon-grid">
-
-							<div class="icon-right">
-								<i class="fa fa-book" aria-hidden="true"></i>
-								<h5>Edificaciones</h5>
-								<p>Gestión profesional para edificación de conjuntos habilitacionales, oficinas, retail,
-									entre otros.</p>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-6 w3ls-agile-service-grid">
-						<div class="agileits-icon-grid">
-							<div class="icon-right">
-								<i class="fa fa-fire" aria-hidden="true"></i>
-								<h5>Soluciones Industriales</h5>
-								<p>Solución integral de ingeniería, gestión de compra, construcción, y puesta en marcha.
+								<i class="fa fa-building-o" aria-hidden="true"></i>
+								<h5>Infraestructura</h5>
+								<p>La Empresa cuenta con el equipamiento adecuado de máquinas y herramientas para poder llevar a cabo los 		proyectos que nos ha confiado, y así entregar los resultados esperados.
+									Con oficinas centrales ubicadas en Álvarez 1136 Local 2 Viña del Mar, y  sucursales en Sotomayor 2081-A Iquique, Alto Hospicio, Casablanca, Concón y Nogales. 
 								</p>
 							</div>
 						</div>
@@ -42,13 +23,57 @@
 						<div class="agileits-icon-grid">
 
 							<div class="icon-right">
-								<i class="fa fa-hand-o-up" aria-hidden="true"></i>
-								<h5>Obras civiles</h5>
-								<p>Soluciones para el área de ingeniería, proyectos especiales y mineria, entre otros.
+								<i class="fa fa-warning" aria-hidden="true"></i>
+								<h5>Prevención de Riesgos</h5>
+								<p>Los procesos de seguridad deben ser integrados en las actividades productivas de forma que no puedan ser separadas de éstas últimas, por esto corresponde declarar a nuestro personal que trabaje con procedimientos seguros y bajo las normas que requiere el cliente de nuestros servicios.</p>
+							</div></br>
+						</div></br>
+					</div></br>
+
+					<div class="col-md-6 w3ls-agile-service-grid">
+						<div class="agileits-icon-grid">
+							<div class="icon-right">
+								<i class="fa fa-globe" aria-hidden="true"></i>
+								<h5>Cobertura Geográfica</h5>
+								<p>Cuenta con cobertura nacional de sus servicios, tanto a nivel local como nacional. De esta forma se entrega un servicio estándar en todo Chile.
 								</p>
 							</div>
 						</div>
 					</div>
+					<div class="col-md-6 w3ls-agile-service-grid">
+						<div class="agileits-icon-grid">
+
+							<div class="icon-right">
+								<i class="fa fa-truck" aria-hidden="true"></i>
+								<h5>Proveedores</h5>
+								<p>Trabajamos con los principales proveedores del mercado nacional, como ser; Easy, Home Center Sodimac, Construmart, Salomón Sack, etc. Nuestro objetivo es tener los materiales lo antes posible en obras, en función a la programación y planificación de la obra en terreno, logrando mejoras en la productividad y eficiencia de los recursos.
+								</p>
+							</div>
+						</div>
+					</div>
+
+					<div class="col-md-6 w3ls-agile-service-grid">
+						<div class="agileits-icon-grid">
+							<div class="icon-right">
+								<i class="fa fa-bank" aria-hidden="true"></i>
+								<h5>Sistema Financiero (La Banca)</h5>
+								<p>Para desarrollar nuestro negocio, contamos con el apoyo de bancos de primer nivel como ser; Santander Santiago, Scotiabank e Itau., esto nos ha permitido administrar eficientemente nuestros recursos financieros.
+								</p>
+							</div>
+						</div>
+					</div>
+
+					<div class="col-md-6 w3ls-agile-service-grid">
+						<div class="agileits-icon-grid">
+							<div class="icon-right">
+								<i class="fa fa-check-square" aria-hidden="true"></i>
+								<h5>Seguros</h5>
+								<p>Todas nuestras maquinarias y vehículos de transportes, están debidamente asegurados por compañías de seguros de larga trayectoria en el mercado nacional.
+								</p>
+							</div>
+						</div>
+					</div>
+
 					<div class="clearfix"> </div>
 				</div>
 

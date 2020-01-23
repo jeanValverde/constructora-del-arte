@@ -3,7 +3,7 @@
 <html lang="zxx">
 
 <head>
-	<title>DEL ARTE contructora</title>
+	<title>CONSTRUCTORA DEL ARTE</title>
 	<!-- custom-theme -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -41,35 +41,29 @@
 	<?php include 'fragments/sections/about.php';?>
 	<!-- //about -->
 
-
-	<!--/services -->
-	<?php include 'fragments/sections/services.php';?>
-	<!-- //services -->
-
-	<!-- team -->
-	<?php include 'fragments/sections/team.php';?>
-	<!-- //team -->
-
-
 	<!---news -->
 	<?php include 'fragments/sections/news.php';?>
 	<!--- //news -->
 
+	<!-- team -->
+	<?php include 'fragments/sections/team.php';?>
+	<!-- //team -->
+	
+	<!--/services -->
+	<?php include 'fragments/sections/services.php';?>
+	<!-- //services -->
 
 	<!-- //projects -->
 	<?php include 'fragments/sections/projects.php';?>
 	<!-- projects -->
 
-
 	<!-- testimonials -->
 	<?php include 'fragments/sections/testimonials.php';?>
 	<!-- //testimonials -->
 
-
 	<!-- contact--> 
 	<?php include 'fragments/footer/contact.php';?>
 	<!-- //contact-->
-
 
 	<!--footer-->
 	<?php include 'fragments/footer/footer.php';?>

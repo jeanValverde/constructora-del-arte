@@ -65,7 +65,7 @@
 }
 .lb-overlay > div{
 	position: relative;
-	color: rgba(27,54,81,0.8);
+	color: rgba(255,255,255,255);
 	opacity: 0;
 	filter: alpha(opacity=0); /* internet explorer */
     -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(opacity=0)"; /*IE8*/

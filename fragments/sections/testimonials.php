@@ -2,7 +2,7 @@
 		<div class="test_agile_info">
 			<div class="container">
 				<div class="w3_tittle second two">
-					<h3 class="agile-tittle two gal">Clientes</h3>
+					<h3 class="agile-tittle two gal test">Testimonios</h3>
 					<div class="line-style second"><span class="second"></span></div>
 				</div>
 				<ul id="flexiselDemo1">

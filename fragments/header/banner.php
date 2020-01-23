@@ -27,10 +27,12 @@
 					</div>
 					<ul class="menu-extents" >
 								<li><a href="#home" class="active scroll">Home</a></li>
-								<li><a href="#about" class="scroll">Qué hacemos</a></li>
+								<li><a href="#about" class="scroll">Qué Ofrecemos</a></li>
+								<li><a href="#about" class="scroll">Clientes</a></li>
 								<li><a href="#team" class="scroll">Equipo</a></li>
 								<li><a href="#services" class="scroll">Servicios</a></li>
 								<li><a href="#gallery" class="scroll">Proyectos</a></li>
+								<li><a href="#gallery" class="scroll">Testimonios</a></li>
 								<li><a href="#contact" class="scroll">Contacto</a></li>
 							</ul>
 					<div class="w3_menu">
@@ -45,10 +47,12 @@
 						<nav class="mobile-menu">
 							<ul>
 								<li><a href="#home" class="active scroll">Home</a></li>
-								<li><a href="#about" class="scroll">Qué hacemos</a></li>
+								<li><a href="#about" class="scroll">Qué Ofrecemos</a></li>
+								<li><a href="#about" class="scroll">Clientes</a></li>
 								<li><a href="#team" class="scroll">Equipo</a></li>
 								<li><a href="#services" class="scroll">Servicios</a></li>
 								<li><a href="#gallery" class="scroll">Proyectos</a></li>
+								<li><a href="#gallery" class="scroll">Testimonios</a></li>
 								<li><a href="#contact" class="scroll">Contacto</a></li>
 							</ul>
 						</nav>
@@ -64,21 +68,21 @@
 								<div class="agileits-banner-info">
 									<h4>Servicios de exelencia</h4>
 									<h3>En ingeniería y contrucción</h3>
-									<p>Del Arte</p>
+									<p>Constructora del Arte</p>
 								</div>
 							</li>
 							<li>
 								<div class="agileits-banner-info">
 									<h4>El mejor socio</h4>
 									<h3>Para nuestros clientes</h3>
-									<p>Del Arte Fishing</p>
+									<p>Constructora del Arte</p>
 								</div>
 							</li>
 							<li>
 								<div class="agileits-banner-info">
 									<h4>Soluciones</h4>
 									<h3>Integrales e innovadoras</h3>
-									<p>Del arte</p>
+									<p>Constructora del Arte</p>
 								</div>
 							</li>
 						</ul>
