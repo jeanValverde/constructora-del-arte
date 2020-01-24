@@ -1178,11 +1178,11 @@ li.agileinfo_share.team {
 }
 .nbs-flexisel-nav-left {
 	left: 13%;
-    background:url(../images/left.png) no-repeat no-repeat 3px 6px #000;
+    background:url(../images/left.png) no-repeat no-repeat 3px 6px rgb(5, 17, 26,0.81);
 }
 .nbs-flexisel-nav-right {
 	right: 13%;
-	background:url(../images/right.png) no-repeat no-repeat 3px 6px #000;
+	background:url(../images/right.png) no-repeat no-repeat 3px 6px rgb(5, 17, 26,0.81);
 }
 .test_agile_info {
     background: url(../images/overlay.png)repeat;
