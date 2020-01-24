@@ -772,7 +772,8 @@ h3.agile-tittle.two.gal.test {
 }
 .w3ls-agile-service-grid {
     background: #8c8c8c;
-       padding: 5.48em 2em;
+	   padding: 5.48em 2em;
+	   height: 500px;
 }
 .icon-right p {
     color: #fff;
@@ -916,7 +917,7 @@ li.agileinfo_share.team {
 } 
 .news-right,.news1-left{ 
        background: #606060;
-    padding: 8em 8em;
+    padding: 4em 4em;
     transition: 0.5s all;
     -webkit-transition: 0.5s all;
     -moz-transition: 0.5s all;

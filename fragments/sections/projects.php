@@ -1,198 +1,196 @@
-
-	<div class="gallery" id="gallery">
-		<!-- gallery -->
-		<div class="container">
-			<div class="w3_tittle second two">
-				<h3 class="agile-tittle two gal">Proyectos Desarrollados</h3>
-				<div class="line-style second"><span class="second"></span></div>
+<div class="gallery" id="gallery">
+	<!-- gallery -->
+	<div class="container">
+		<div class="w3_tittle second two">
+			<h3 class="agile-tittle two gal">Proyectos Desarrollados</h3>
+			<div class="line-style second"><span class="second"></span></div>
+		</div>
+		<p>Constructora Del Arte Spa, con 55 proyectos construidos, en más de 20 ciudades ha  participado en la construcción de más de 211 millones de USD, en lo que principalmente ha instalado 1.036.915 Kg de Fierro en Estructura Metálica, instalado 156.315 ml de tuberías de acero – HDPE – PVC y Movimientos de tierra por 92,036 m3 con y sin explosivos.</p>
+		<div class="inner_w3l_agile_grids">
+			<div class="col-md-4 gal-gd wow fadeInRight animated" data-wow-delay=".5s">
+				<a href="#image-3">
+					<div class="nd-wrap nd-style-8">
+						<img src="images/Obras colegios 8.jpg" class="img-responsive" alt=" ">
+						<div class="nd-content">
+							<div class="nd-content_inner">
+								<div class="nd-content_inner1">
+									<h4 class="nd-title">ESPACIOS PUBLICOS</h4>
+									<span class="nd-icon">
+										<i class="glyphicon glyphicon-eye-open"></i>
+									</span>
+								</div>
+							</div>
+						</div>
+					</div>
+				</a>
+			</div><div class="col-md-4 gal-gd wow fadeInLeft animated" data-wow-delay=".5s">
+				<a href="#image-1">
+					<div class="nd-wrap nd-style-8">
+						<img src="images/Obras colegios 7.jpg" alt="" class="img-responsive">
+						<div class="nd-content">
+							<div class="nd-content_inner">
+								<div class="nd-content_inner1">
+									<h4 class="nd-title">COLEGIO</h4>
+									<span class="nd-icon">
+										<i class="glyphicon glyphicon-eye-open"></i>
+									</span>
+								</div>
+							</div>
+						</div>
+					</div>
+				</a>
 			</div>
-			<p>Constructora Del Arte Spa, con 55 proyectos construidos, en más de 20 ciudades ha  participado en la construcción de más de 211 millones de USD, en lo que principalmente ha instalado 1.036.915 Kg de Fierro en Estructura Metálica, instalado 156.315 ml de tuberías de acero – HDPE – PVC y Movimientos de tierra por 92,036 m3 con y sin explosivos.</p>
-			<div class="inner_w3l_agile_grids">
-				<div class="col-md-4 gal-gd wow fadeInLeft animated" data-wow-delay=".5s">
-					<a href="#image-1">
-						<div class="nd-wrap nd-style-8">
-							<img src="images/Obras colegios 7.jpg" alt=""
-								class="img-responsive" alt=" " />
-							<div class="nd-content">
-								<div class="nd-content_inner">
-									<div class="nd-content_inner1">
-										<h4 class="nd-title">COLEGIO</h4>
-										<span class="nd-icon">
-											<i class="glyphicon glyphicon-eye-open"></i>
-										</span>
-									</div>
+			<div class="col-md-4 gal-gd wow fadeInUp animated" data-wow-delay=".5s">
+				<a href="#image-2">
+					<div class="nd-wrap nd-style-8">
+						<img src="images/Obra edificio consistorial 1.jpg" class="img-responsive" alt=" ">
+						<div class="nd-content">
+							<div class="nd-content_inner">
+								<div class="nd-content_inner1">
+									<h4 class="nd-title">EDIFICIO CONSISTORIAL</h4>
+									<span class="nd-icon">
+										<i class="glyphicon glyphicon-eye-open"></i>
+									</span>
 								</div>
 							</div>
 						</div>
-					</a>
-				</div>
-				<div class="col-md-4 gal-gd wow fadeInUp animated" data-wow-delay=".5s">
-					<a href="#image-2">
-						<div class="nd-wrap nd-style-8">
-							<img src="images/Obra edificio consistorial 1.jpg"
-								class="img-responsive" alt=" " />
-							<div class="nd-content">
-								<div class="nd-content_inner">
-									<div class="nd-content_inner1">
-										<h4 class="nd-title">EDIFICIO CONSISTORIAL</h4>
-										<span class="nd-icon">
-											<i class="glyphicon glyphicon-eye-open"></i>
-										</span>
-									</div>
-								</div>
-							</div>
-						</div>
-					</a>
+					</div>
+				</a>
 
-				</div>
-				<div class="col-md-4 gal-gd wow fadeInRight animated" data-wow-delay=".5s">
-					<a href="#image-3">
-						<div class="nd-wrap nd-style-8">
-							<img src="images/Obras colegios 8.jpg" class="img-responsive" alt=" " />
-							<div class="nd-content">
-								<div class="nd-content_inner">
-									<div class="nd-content_inner1">
-										<h4 class="nd-title">ESPACIOS PUBLICOS</h4>
-										<span class="nd-icon">
-											<i class="glyphicon glyphicon-eye-open"></i>
-										</span>
-									</div>
-								</div>
-							</div>
-						</div>
-					</a>
-				</div>
-				<div class="col-md-6 gal-gd-sec wow fadeInLeft animated" data-wow-delay=".5s">
-					<a href="#image-4">
-						<div class="nd-wrap nd-style-8">
-							<img src="images/Obras estadios 4.jpg"
-								class="img-responsive" alt=" " />
-							<div class="nd-content">
-								<div class="nd-content_inner">
-									<div class="nd-content_inner1">
-										<h4 class="nd-title">ESTADIO</h4>
-										<span class="nd-icon">
-											<i class="glyphicon glyphicon-eye-open"></i>
-										</span>
-									</div>
-								</div>
-							</div>
-						</div>
-					</a>
-				</div>
-				<div class="col-md-6 gal-gd-sec wow fadeInRight animated" data-wow-delay=".5s">
-					<a href="#image-5">
-						<div class="nd-wrap nd-style-8">
-							<img src="images/Obras habitacionales 4.jpg"
-								class="img-responsive" alt=" " />
-							<div class="nd-content">
-								<div class="nd-content_inner">
-									<div class="nd-content_inner1">
-										<h4 class="nd-title">HABITACIONAL</h4>
-										<span class="nd-icon">
-											<i class="glyphicon glyphicon-eye-open"></i>
-										</span>
-									</div>
-								</div>
-							</div>
-						</div>
-					</a>
-				</div>
-				<div class="col-md-4 gal-gd wow fadeInLeft animated" data-wow-delay=".5s">
-					<a href="#image-6">
-						<div class="nd-wrap nd-style-8">
-							<img src="images/Obras mercados 2.jpg"
-								class="img-responsive" alt=" " />
-							<div class="nd-content">
-								<div class="nd-content_inner">
-									<div class="nd-content_inner1">
-										<h4 class="nd-title">MERCADO</h4>
-										<span class="nd-icon">
-											<i class="glyphicon glyphicon-eye-open"></i>
-										</span>
-									</div>
-								</div>
-							</div>
-						</div>
-					</a>
-				</div>
-				<div class="col-md-4 gal-gd wow fadeInDown animated" data-wow-delay=".5s">
-					<a href="#image-7">
-						<div class="nd-wrap nd-style-8">
-							<img src="images/Obras restauracion 1.jpg"
-								class="img-responsive" alt=" " />
-							<div class="nd-content">
-								<div class="nd-content_inner">
-									<div class="nd-content_inner1">
-										<h4 class="nd-title">RESTAURACIÓN</h4>
-										<span class="nd-icon">
-											<i class="glyphicon glyphicon-eye-open"></i>
-										</span>
-									</div>
-								</div>
-							</div>
-						</div>
-					</a>
-				</div>
-				<div class="col-md-4 gal-gd wow fadeInRight animated" data-wow-delay=".5s">
-					<a href="#image-8">
-						<div class="nd-wrap nd-style-8">
-							<img src="images/Obras salud 3.jpg"
-								class="img-responsive" alt=" " />
-							<div class="nd-content">
-								<div class="nd-content_inner">
-									<div class="nd-content_inner1">
-										<h4 class="nd-title">SALUD</h4>
-										<span class="nd-icon">
-											<i class="glyphicon glyphicon-eye-open"></i>
-										</span>
-									</div>
-								</div>
-							</div>
-						</div>
-					</a>
-				</div>
-				<div class="col-md-6 gal-gd wow fadeInDown animated" data-wow-delay=".5s">
-					<a href="#image-9">
-						<div class="nd-wrap nd-style-8">
-							<img src="images/Obras urbanizacion 16.jpg"
-								class="img-responsive" alt=" " />
-							<div class="nd-content">
-								<div class="nd-content_inner">
-									<div class="nd-content_inner1">
-										<h4 class="nd-title">URBANIZACIÓN</h4>
-										<span class="nd-icon">
-											<i class="glyphicon glyphicon-eye-open"></i>
-										</span>
-									</div>
-								</div>
-							</div>
-						</div>
-					</a>
-				</div>
-				<div class="col-md-6 gal-gd wow fadeInDown animated" data-wow-delay=".5s">
-					<a href="#image-10">
-						<div class="nd-wrap nd-style-8">
-							<img src="images/Maquinaria 5.jpg"
-							class="img-responsive" alt=" " />
-							<div class="nd-content">
-								<div class="nd-content_inner">
-									<div class="nd-content_inner1">
-										<h4 class="nd-title">CANIL ECOLÓGICO</h4>
-										<span class="nd-icon">
-											<i class="glyphicon glyphicon-eye-open"></i>
-										</span>
-									</div>
-								</div>
-							</div>
-						</div>
-					</a>
-				</div>
-
-				<div class="clearfix"></div>
 			</div>
+			
+			<div class="col-md-6 gal-gd wow fadeInDown animated" data-wow-delay=".5s">
+				<a href="#image-9">
+					<div class="nd-wrap nd-style-8">
+						<img src="images/Obras urbanizacion 16.jpg" class="img-responsive" alt=" ">
+						<div class="nd-content">
+							<div class="nd-content_inner">
+								<div class="nd-content_inner1">
+									<h4 class="nd-title">URBANIZACIÓN</h4>
+									<span class="nd-icon">
+										<i class="glyphicon glyphicon-eye-open"></i>
+									</span>
+								</div>
+							</div>
+						</div>
+					</div>
+				</a>
+			</div><div class="col-md-6 gal-gd wow fadeInDown animated" data-wow-delay=".5s">
+				<a href="#image-10">
+					<div class="nd-wrap nd-style-8">
+						<img src="images/Maquinaria 5.jpg" class="img-responsive" alt=" ">
+						<div class="nd-content">
+							<div class="nd-content_inner">
+								<div class="nd-content_inner1">
+									<h4 class="nd-title">CANIL ECOLÓGICO</h4>
+									<span class="nd-icon">
+										<i class="glyphicon glyphicon-eye-open"></i>
+									</span>
+								</div>
+							</div>
+						</div>
+					</div>
+				</a>
+			</div>
+			
+
+<div class="row" style="
+height: 20px;
+"></div>
+			
+			
+			
+			
+			<div class="col-md-4 gal-gd wow fadeInLeft animated" data-wow-delay=".5s">
+				<a href="#image-6">
+					<div class="nd-wrap nd-style-8">
+						<img src="images/Obras mercados 2.jpg" class="img-responsive" alt=" ">
+						<div class="nd-content">
+							<div class="nd-content_inner">
+								<div class="nd-content_inner1">
+									<h4 class="nd-title">MERCADO</h4>
+									<span class="nd-icon">
+										<i class="glyphicon glyphicon-eye-open"></i>
+									</span>
+								</div>
+							</div>
+						</div>
+					</div>
+				</a>
+			</div><div class="col-md-4 gal-gd wow fadeInDown animated" data-wow-delay=".5s">
+				<a href="#image-7">
+					<div class="nd-wrap nd-style-8">
+						<img src="images/Obras restauracion 1.jpg" class="img-responsive" alt=" ">
+						<div class="nd-content">
+							<div class="nd-content_inner">
+								<div class="nd-content_inner1">
+									<h4 class="nd-title">RESTAURACIÓN</h4>
+									<span class="nd-icon">
+										<i class="glyphicon glyphicon-eye-open"></i>
+									</span>
+								</div>
+							</div>
+						</div>
+					</div>
+				</a>
+			</div>
+
+			<div class="animated col-md-4 fadeInRight gal-gd wow" data-wow-delay=".5s">
+				<a href="#image-8">
+					<div class="nd-wrap nd-style-8">
+						<img src="images/Obras salud 3.jpg" class="img-responsive" alt=" ">
+						<div class="nd-content">
+							<div class="nd-content_inner">
+								<div class="nd-content_inner1">
+									<h4 class="nd-title">SALUD</h4>
+									<span class="nd-icon">
+										<i class="glyphicon glyphicon-eye-open"></i>
+									</span>
+								</div>
+							</div>
+						</div>
+					</div>
+				</a>
+			</div><div class="col-md-6 gal-gd-sec wow fadeInLeft animated" data-wow-delay=".5s">
+				<a href="#image-4">
+					<div class="nd-wrap nd-style-8">
+						<img src="images/Obras estadios 4.jpg" class="img-responsive" alt=" " style="
+width: 500px;
+">
+						<div class="nd-content">
+							<div class="nd-content_inner">
+								<div class="nd-content_inner1">
+									<h4 class="nd-title">ESTADIO</h4>
+									<span class="nd-icon">
+										<i class="glyphicon glyphicon-eye-open"></i>
+									</span>
+								</div>
+							</div>
+						</div>
+					</div>
+				</a>
+			</div><div class="col-md-6 gal-gd-sec wow fadeInRight animated" data-wow-delay=".5s">
+				<a href="#image-5">
+					<div class="nd-wrap nd-style-8">
+						<img src="images/Obras habitacionales 4.jpg" class="img-responsive" alt=" " style="
+width: 500px;
+">
+						<div class="nd-content">
+							<div class="nd-content_inner">
+								<div class="nd-content_inner1">
+									<h4 class="nd-title">HABITACIONAL</h4>
+									<span class="nd-icon">
+										<i class="glyphicon glyphicon-eye-open"></i>
+									</span>
+								</div>
+							</div>
+						</div>
+					</div>
+				</a>
+			</div><div class="clearfix"></div>
 		</div>
 	</div>
+</div>
 	<!-- //gallery -->
 	<div class="lb-overlay" id="image-1">
 		<img src="https://camiper.com/tiempominero/wp-content/uploads/2019/10/boom-de-la-construccion-civil.jpg"

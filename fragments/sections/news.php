@@ -1,4 +1,3 @@
-
 <div class="news">
 
 	<div class="w3_tittle second two">
@@ -6,7 +5,9 @@
 		<div class="line-style second"><span class="second"></span></div>
 	</div>
 
-	<div class="w3lnews-grid">
+	<div class="w3lnews-grid" style="
+    background: #606060;
+">
 		<div class="col-md-6 col-sm-6 news-left">
 			<div class="wthree-almubimg">
 			</div>
@@ -27,7 +28,9 @@
 			<h4>Sector Público</h4>
 			<p>Nuestros Principales Mandantes están constituidos por Instituciones Fiscales, quienes financian sus proyectos a través de Fondos Provenientes del Gobierno Regional (F.N.D.R.), del Ministerio de Educación, del Servicio de Vivienda y Urbanismo y del Programa de Mejoramiento Habitacional, Ministerio de Obras Públicas, Ilustre Municipalidad de Valparaíso, Ilustre Municipalidad de Viña del Mar, Ilustre Municipalidad de Villa Alemana, Ilustre Municipalidad de Llay, Ilustre Municipalidad de Zapallar, Ilustre Municipalidad de Coquimbo, Ilustre Municipalidad de Illapel, Ilustre Municipalidad de Iquique, Ilustre Municipalidad de Pozo al Monte.</p>
 		</div>
-		<div class="clearfix"></div>
+		<div class="clearfix" style="
+    background: #606060;
+"></div>
 	</div>
 	<div class="clearfix"></div>
 </div>
