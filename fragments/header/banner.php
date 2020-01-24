@@ -90,6 +90,13 @@
 					</div>
 				</div>
 
+				<a href="#about" class="callbacks1_nav scroll" style="
+    left: 400px;
+    float: right;
+    padding-right: 45%;
+    padding-bottom: 0px;
+    padding-top: 10%;
+"><img src="images/flecha-hacia-abajo.png" style="width: 50%;"></a>
 				<!--banner Slider starts Here-->
 				<!--<div class="w3_agileits_social_media ">
 					<ul class="social-icons3">

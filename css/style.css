@@ -906,7 +906,7 @@ li.agileinfo_share.team {
 /*-- //team --*/
 /*-- news --*/
 .wthree-almubimg {
-    background: url(http://footage.framepool.com/shotimg/qf/524909282-construccion-de-edificios-grua-de-construccion-maquinaria-para-la-construccion-singapur.jpg)no-repeat center;
+    background: url(../images/sector-privado.jpg)no-repeat center;
     background-size: cover;
     min-height: 435px;
     -webkit-transition: all 3s;
@@ -925,7 +925,7 @@ li.agileinfo_share.team {
     -ms-transition: 0.5s all;
 }
 .wthree-almubimg.wthree1-almubimg {
-  background: url(http://torreliolawfirm.com/wp-content/uploads/2019/01/construccion.jpg)no-repeat center;
+  background: url(../images/sector-publico.jpg)no-repeat center;
 	background-size: cover;
 }
 .news-left, .news1-right {

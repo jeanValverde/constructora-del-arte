@@ -193,7 +193,7 @@ width: 500px;
 </div>
 	<!-- //gallery -->
 	<div class="lb-overlay" id="image-1">
-		<img src="https://camiper.com/tiempominero/wp-content/uploads/2019/10/boom-de-la-construccion-civil.jpg"
+		<img src="images/Obras colegios 7.jpg"
 			alt="image1" />
 		<div class="gal-info">
 			<h3>COLEGIO</h3>
@@ -203,10 +203,10 @@ width: 500px;
 				<li>Millones de CLP: 16.590,9</li>
 			</ul>
 		</div>
-		<a href="#" class="lb-close">Cerrar</a>
+		<a href="#imagen-1" class="lb-close">Cerrar</a>
 	</div>
 	<div class="lb-overlay" id="image-2">
-		<img src="https://modernasa.com.ar/wp-content/uploads/2017/01/moderna-construcciones-avance-obra-edificio-vivienda-multifamiliar-2.jpg"
+		<img src="images/Obra edificio consistorial 1.jpg"
 			alt="image1" />
 		<div class="gal-info">
 			<h3>EDIFICIO CONSISTORIAL</h3>
@@ -216,10 +216,10 @@ width: 500px;
 				<li>Millones de CLP: 8.596,8</li>
 			</ul>
 		</div>
-		<a href="#" class="lb-close">Cerrar</a>
+		<a href="#imagen-2" class="lb-close">Cerrar</a>
 	</div>
 	<div class="lb-overlay" id="image-3">
-		<img src="http://baumax.cl/uploads/video/cabecera.jpg" alt="image1" />
+		<img src="images/Obras colegios 8.jpg" alt="image1" />
 		<div class="gal-info">
 			<h3>ESPACIOS PUBLICOS</h3>
 			<ul>
@@ -228,10 +228,10 @@ width: 500px;
 				<li>Millones de CLP: 3.233,4</li>
 			</ul>
 		</div>
-		<a href="#" class="lb-close">Cerrar</a>
+		<a href="#imagen-3" class="lb-close">Cerrar</a>
 	</div>
 	<div class="lb-overlay" id="image-4">
-		<img src="https://www.altonivel.com.mx/wp-content/uploads/2018/04/torre-koi.jpg" alt="image1" />
+		<img src="images/Obras estadios 4.jpg" alt="image1" />
 		<div class="gal-info">
 			<h3>ESTADIO</h3>
 			<ul>
@@ -240,10 +240,10 @@ width: 500px;
 				<li>Millones de CLP: 3.390,3</li>
 			</ul>
 		</div>
-		<a href="#" class="lb-close">Cerrar</a>
+		<a href="#imagen-4" class="lb-close">Cerrar</a>
 	</div>
 	<div class="lb-overlay" id="image-5">
-		<img src="https://www.altonivel.com.mx/wp-content/uploads/2018/04/Hotel-Riu-Guadalajara.jpg" alt="image1" />
+		<img src="images/Obras habitacionales 4.jpg" alt="image1" />
 		<div class="gal-info">
 			<h3>HABITACIONAL</h3>
 			<ul>
@@ -252,10 +252,10 @@ width: 500px;
 				<li>Millones de CLP: 5.682,9</li>
 			</ul>
 		</div>
-		<a href="#" class="lb-close">Cerrar</a>
+		<a href="#imagen-5" class="lb-close">Cerrar</a>
 	</div>
 	<div class="lb-overlay" id="image-6">
-		<img src="https://s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2019/05/13144900/Real-Estate-Nuevos-sistemas-de-construccion-3.jpg"
+		<img src="images/Obras mercados 2.jpg"
 			alt="image1" />
 		<div class="gal-info">
 			<h3>MERCADO</h3>
@@ -265,10 +265,10 @@ width: 500px;
 				<li>Millones de CLP: 10.186,4</li>
 			</ul>
 		</div>
-		<a href="#" class="lb-close">Cerrar</a>
+		<a href="#imagen-6" class="lb-close">Cerrar</a>
 	</div>
 	<div class="lb-overlay" id="image-7">
-		<img src="http://goplaceit.s3.amazonaws.com/proyectos/chile/portalSub/8449_pe.jpg" alt="image1" />
+		<img src="images/Obras restauracion 1.jpg" alt="image1" />
 		<div class="gal-info">
 			<h3>RESTAURACIÓN</h3>
 			<ul>
@@ -277,10 +277,10 @@ width: 500px;
 				<li>Millones de CLP: 16.551,1</li>
 			</ul>
 		</div>
-		<a href="#" class="lb-close">Cerrar</a>
+		<a href="#imagen-7" class="lb-close">Cerrar</a>
 	</div>
 	<div class="lb-overlay" id="image-8">
-		<img src="https://www.monumentos.gob.cl/sites/default/files/styles/large-16_9/public/foto_portada_2222.jpg?itok=YKajCz9d"
+		<img src="images/Obras salud 3.jpg"
 			alt="image1" />
 		<div class="gal-info">
 			<h3>SALUD</h3>
@@ -290,10 +290,10 @@ width: 500px;
 				<li>Millones de CLP: 3.657,2</li>
 			</ul>
 		</div>
-		<a href="#" class="lb-close">Cerrar</a>
+		<a href="#imagen-8" class="lb-close">Cerrar</a>
 	</div>
 	<div class="lb-overlay" id="image-9">
-		<img src="https://www.monumentos.gob.cl/sites/default/files/styles/large-16_9/public/foto_portada_2222.jpg?itok=YKajCz9d"
+		<img src="images/Obras urbanizacion 16.jpg"
 		alt="image1" />
 		<div class="gal-info">
 			<h3>URBANIZACIÓN</h3>
@@ -303,10 +303,10 @@ width: 500px;
 				<li>Millones de CLP: 57.468,1</li>
 			</ul>
 		</div>
-		<a href="#" class="lb-close">Cerrar</a>
+		<a href="#imagen-9" class="lb-close">Cerrar</a>
 	</div>		
 	<div class="lb-overlay" id="image-10">
-		<img src="https://www.monumentos.gob.cl/sites/default/files/styles/large-16_9/public/foto_portada_2222.jpg?itok=YKajCz9d"
+		<img src="images/Maquinaria 5.jpg"
 		alt="image1" />
 		<div class="gal-info">
 			<h3>CANIL ECOLÓGICO</h3>
@@ -316,5 +316,5 @@ width: 500px;
 				<li>Millones de CLP: 438,2</li>
 			</ul>
 		</div>
-		<a href="#" class="lb-close">Cerrar</a>
+		<a href="#imagen-10" class="lb-close">Cerrar</a>
 	</div>
