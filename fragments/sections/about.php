@@ -135,7 +135,7 @@
 								<div id="container-main">
 								
 									<div class="accordion-container">
-										<a href="#" class="accordion-titulo">Obras Civiles<span class="toggle-icon"></span></a>
+										<a href="#about" class="accordion-titulo">Obras Civiles<span class="toggle-icon"></span></a>
 										<div class="accordion-content">
 											<p>Se interviene creativa y analíticamente en todos los ámbitos de la edificación y las construcciones, cumpliendo con la Ley General de Urbanismo y Construcción, lo que de acuerdo a esa normativa, toda edificación debe cumplir una serie de requisitos técnicos que garanticen seguridad. 
 											</p>
@@ -143,7 +143,7 @@
 									</div>
 									
 									<div class="accordion-container">
-										<a href="#" class="accordion-titulo">Infraestructuras Sanitarias<span class="toggle-icon"></span></a>
+										<a href="#about" class="accordion-titulo">Infraestructuras Sanitarias<span class="toggle-icon"></span></a>
 										<div class="accordion-content">
 											<p>Se elabora proyectos de agua potable y alcantarillados particulares y su tramitación ante autoridades pertinentes. Construcción de infraestructura sanitaria, tales como redes de agua potable y alcantarillado, plantas de potabilización, planta de tratamiento y elevadoras de aguas servidas, entre otras. 
 											</p>
@@ -152,7 +152,7 @@
 
 
 									<div class="accordion-container">
-										<a href="#" class="accordion-titulo">Ingeniería de Proyectos<span class="toggle-icon"></span></a>
+										<a href="#about" class="accordion-titulo">Ingeniería de Proyectos<span class="toggle-icon"></span></a>
 										<div class="accordion-content">
 											<p>Ofrecemos servicios de ingeniería integral de proyectos civiles, donde la etapa de estudios conceptuales hasta la ingeniería de detalle durante el periodo de construcción de las obras, garantizando una atención personalizada y la calidad de los productos desarrollados.
 											</p>
@@ -160,14 +160,14 @@
 									</div>
 
 									<div class="accordion-container">
-										<a href="#" class="accordion-titulo">Movimiento de Tierra<span class="toggle-icon"></span></a>
+										<a href="#about" class="accordion-titulo">Movimiento de Tierra<span class="toggle-icon"></span></a>
 										<div class="accordion-content">
 											<p>Se realiza todo tipo de movimiento tipo de tierra, con y sin explosivos.</p>
 										</div>
 									</div>
 
 									<div class="accordion-container">
-										<a href="#" class="accordion-titulo">Arriendo de Maquinarias<span class="toggle-icon"></span></a>
+										<a href="#about" class="accordion-titulo">Arriendo de Maquinarias<span class="toggle-icon"></span></a>
 										<div class="accordion-content">
 											<p>
 												Disponemos de una extensa oferta de maquinaria para construcción y minería, para colaborar en la rápida ejecución de los proyectos de nuestros clientes.
@@ -176,7 +176,7 @@
 									</div>
 
 									<div class="accordion-container">
-										<a href="#" class="accordion-titulo">Montajes Industriales<span class="toggle-icon"></span></a>
+										<a href="#about" class="accordion-titulo">Montajes Industriales<span class="toggle-icon"></span></a>
 										<div class="accordion-content">
 											<p>
 												Se ofrece una respuesta más a las crecientes necesidades de mantenimiento, fabricación, montaje, puestas en marcha y revisión de las instalaciones de las empresas situadas en el terreno nacional. 
@@ -185,12 +185,12 @@
 									</div>
 
 									<div class="accordion-container">
-										<a href="#" class="accordion-titulo">Arquitectura<span class="toggle-icon"></span></a>
+										<a href="#about" class="accordion-titulo">Arquitectura<span class="toggle-icon"></span></a>
 										<div class="accordion-content">
 											<p>
 												La arquitectura del proyecto, se orienta para que las empresas puedan desarrollar sus actividades de una forma confortable y segura
-									La relevancia de los diseños realizados por nuestra empresa, resalta no solo por la calidad de los materiales utilizados, sino que además por la calidad de los espacios generados para acoger los distintos aspectos de la vida cotidiana de acuerdo a los requerimientos del proyecto.
-									</p>
+								            	La relevancia de los diseños realizados por nuestra empresa, resalta no solo por la calidad de los materiales utilizados, sino que además por la calidad de los espacios generados para acoger los distintos aspectos de la vida cotidiana de acuerdo a los requerimientos del proyecto.
+									        </p>
 										</div>
 									</div>
 
