@@ -1,4 +1,4 @@
-<div class="news">
+<div id="news" class="news">
 
 	<div class="w3_tittle second two">
 		<h3 class="agile-tittle two gal">Clientes</h3>

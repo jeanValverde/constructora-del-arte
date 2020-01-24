@@ -204,6 +204,22 @@
 
 	<script type="text/javascript" src="js/bootstrap-3.1.1.min.js"></script>
 
+	<script>
+$(".accordion-titulo").click(function(){
+		
+		var contenido=$(this).next(".accordion-content");
+				 
+		if(contenido.css("display")=="none"){ //open		
+		   contenido.slideDown(250);			
+		   $(this).addClass("open");
+		}
+		else{ //close		
+		   contenido.slideUp(250);
+		   $(this).removeClass("open");	
+	   }
+								 
+	 });
+</script>
 
 </body>
 
