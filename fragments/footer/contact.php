@@ -9,7 +9,7 @@
 				<div class="col-lg-6 col-md-6 col-sm-6 contact-w3-agile2" data-aos="flip-left">
 					<div class="contact-agileits">
 						<h4>Contáctanos</h4>
-						<p class="contact-agile2">CONSTRUCTORA DEL ARTE</p>
+						<p class="contact-agile2">Para preguntas, comentarios e inquietudes, completa el formulario a continuación</p>
 						<form action="#" method="post" name="sentMessage" id="contactForm" novalidate>
 							<div class="control-group form-group">
 								<div class="controls">
@@ -21,7 +21,7 @@
 							</div>
 							<div class="control-group form-group">
 								<div class="controls">
-									<label class="contact-p1">Número de celular:</label>
+									<label class="contact-p1">Número de Teléfono:</label>
 									<input type="tel" class="form-control" name="phone" id="phone" required
 										data-validation-required-message="Please enter your phone number.">
 									<p class="help-block"></p>
@@ -29,7 +29,7 @@
 							</div>
 							<div class="control-group form-group">
 								<div class="controls">
-									<label class="contact-p1">Correo:</label>
+									<label class="contact-p1">Correo Electrónico:</label>
 									<input type="email" class="form-control" name="email" id="email" required
 										data-validation-required-message="Please enter your email address.">
 									<p class="help-block"></p>

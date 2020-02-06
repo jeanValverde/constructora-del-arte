@@ -1413,12 +1413,13 @@ color: #111 !important;
 	margin:1em 0;
 }
 .copyright{
-	    padding: 1.3em 0 1em 0;
+	padding: 1.3em 0 1em 0;
 	text-align:center;
-    background: #0c111f;
+ background: #424242;
+
 }
 .copyright p {
-    color: #b2b7bf;
+    color: #c5c4c4;
     font-size: .9em;
     margin: 0;
     letter-spacing: 2px;

@@ -42,23 +42,19 @@
 	<!-- //about -->
 
 	<!---news -->
-	<?php include 'fragments/sections/news.php';?>
+	<?php include 'fragments/sections/clientes.php';?>
 	<!--- //news -->
-
-	<!-- team -->
-	<?php include 'fragments/sections/team.php';?>
-	<!-- //team -->
 	
-	<!--/services -->
-	<?php include 'fragments/sections/services.php';?>
-	<!-- //services -->
-
 	<!-- //projects -->
 	<?php include 'fragments/sections/projects.php';?>
 	<!-- projects -->
 
+	<!--/services -->
+	<?php include 'fragments/sections/services.php';?>
+	<!-- //services -->
+
 	<!-- testimonials -->
-	<?php include 'fragments/sections/testimonials.php';?>
+	<?php include 'fragments/sections/future-projects.php';?>
 	<!-- //testimonials -->
 
 	<!-- contact--> 

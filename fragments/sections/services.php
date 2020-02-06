@@ -3,20 +3,26 @@
 	padding-top: 131%;
 }
 </style>
+
+<div class="w3_tittle second two">
+	<h3 class="agile-tittle two gal">Servicios</h3>
+	<div class="line-style second"><span class="second"></span></div>
+</div>
+
 <div class="features" id="services">
-		<div class="container">
-			<div class="agileits_w3layouts_features_grids">
+	<div class="container">
+		<div class="agileits_w3layouts_features_grids">
 
-				<div class="col-md-4 agileits_w3layouts_features_grid">
-					<img src="images/servicios.jpg" alt=" " class="img-responsive top-131" >
-				</div>
-				<div class="col-md-8 agileits_w3layouts_sercvices">
+			<div class="col-md-4 agileits_w3layouts_features_grid">
+				<img src="images/servicios.jpg" alt=" " class="img-responsive top-131" >
+			</div>
+			<div class="col-md-8 agileits_w3layouts_sercvices">
 
-					<div class="col-md-6 w3ls-agile-service-grid">
-						<div class="agileits-icon-grid">
-							<div class="icon-right">
-								<i class="fa fa-building-o" aria-hidden="true"></i>
-								<h5>Infraestructura</h5>
+				<div class="col-md-6 w3ls-agile-service-grid">
+					<div class="agileits-icon-grid">
+						<div class="icon-right">
+							<i class="fa fa-building-o" aria-hidden="true"></i>
+							<h5>Infraestructura</h5>
 								<p>La Empresa cuenta con el equipamiento adecuado de máquinas y herramientas para poder llevar a cabo los 		proyectos que nos ha confiado, y así entregar los resultados esperados.
 									Con oficinas centrales ubicadas en Álvarez 1136 Local 2 Viña del Mar, y  sucursales en Sotomayor 2081-A Iquique, Alto Hospicio, Casablanca, Concón y Nogales. 
 								</p>
@@ -91,3 +97,4 @@
 
 		</div>
 	</div>
+</br></br></br>

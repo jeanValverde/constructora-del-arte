@@ -35,10 +35,9 @@
 								<li><a href="#home" class="active scroll">Home</a></li>
 								<li><a href="#about" class="scroll">Qué Ofrecemos</a></li>
 								<li><a href="#news" class="scroll">Clientes</a></li>
-								<li><a href="#team" class="scroll">Equipo</a></li>
+								<li><a href="#gallery" class="scroll">Proyectos Desarrollados</a></li>
 								<li><a href="#services" class="scroll">Servicios</a></li>
-								<li><a href="#gallery" class="scroll">Proyectos</a></li>
-								<li><a href="#testimonials" class="scroll">Testimonios</a></li>
+								<li><a href="#testimonials" class="scroll">Proyectos en Ejecución</a></li>
 								<li><a href="#contact" class="scroll">Contacto</a></li>
 							</ul>
 					</div>
@@ -57,10 +56,9 @@
 								<li><a href="#home" class="active scroll">Home</a></li>
 								<li><a href="#about" class="scroll">Qué Ofrecemos</a></li>
 								<li><a href="#news" class="scroll">Clientes</a></li>
-								<li><a href="#team" class="scroll">Equipo</a></li>
+								<li><a href="#gallery" class="scroll">Proyectos Desarrollados</a></li>
 								<li><a href="#services" class="scroll">Servicios</a></li>
-								<li><a href="#gallery" class="scroll">Proyectos</a></li>
-								<li><a href="#testimonials" class="scroll">Testimonios</a></li>
+								<li><a href="#testimonials" class="scroll">Proyectos en Ejecución</a></li>
 								<li><a href="#contact" class="scroll">Contacto</a></li>
 							</ul>
 						</nav>
