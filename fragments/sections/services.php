@@ -1,11 +1,14 @@
+<style>
+.top-131{
+	padding-top: 131%;
+}
+</style>
 <div class="features" id="services">
 		<div class="container">
 			<div class="agileits_w3layouts_features_grids">
 
 				<div class="col-md-4 agileits_w3layouts_features_grid">
-					<img src="images/servicios.jpg" alt=" " class="img-responsive" style="
-    padding-top: 131%;
-">
+					<img src="images/servicios.jpg" alt=" " class="img-responsive top-131" >
 				</div>
 				<div class="col-md-8 agileits_w3layouts_sercvices">
 

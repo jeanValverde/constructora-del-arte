@@ -7,11 +7,17 @@
 
 			<p>Posee un staff de profesionales altamente calificados en todas sus áreas, quienes han logrado a través de los años de ejercicio, adquirir la experiencia necesaria para ofrecer un servicio que privilegia la eficiencia y calidad, para atender una amplia gama de requerimientos.</p>
 
+
+
+
 			<div class="inner_w3l_agile_grids">
+
 				<div id="horizontalTab">
+
 					<ul class="resp-tabs-list">
 						<li>
 							<img src="images/t1.jpg" alt=" " class="img-responsive" />
+							
 						</li>
 						<li>
 							<img src="images/t21.jpg" alt=" " class="img-responsive" />
@@ -23,8 +29,12 @@
 							<img src="images/t41.jpg" alt=" " class="img-responsive" />
 						</li>
 					</ul>
+					
 					<div class="resp-tabs-container">
+
+
 						<div class="tab1">
+							
 							<div class="col-md-6 team-img-w3-agile">
 							</div>
 							<div class="col-md-8 team-Info-agileits">
@@ -54,6 +64,8 @@
 							</div>
 							<div class="clearfix"> </div>
 						</div>
+
+
 
 						<div class="tab2">
 							<div class="col-md-6 team-img-w3-agile">

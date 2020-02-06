@@ -90,6 +90,9 @@ a:focus{
 .w3_agileits_logo {
     float: left;
 }
+.logo-width-20{
+	width: 20%;
+}
 .w3_agileits_logo h1 a{
     font-size: 1.4em;
     color: #fff;
@@ -1638,12 +1641,24 @@ color: #111 !important;
 
 	.mobile-nav-button{
 		visibility: visible;
-		display: inline;
+		display: flow-root;
 	}
 
 	.menu-extents{
 		visibility: hidden;
 		display: none;
+	}
+
+	.logo-width-20{
+		width: 50%;
+	}
+
+	.fecha-abajo{
+		padding-right: 25% !important;
+	}
+
+	.top-131{
+		padding-top: 0% !important;
 	}
 
 	.mobile-nav-button {

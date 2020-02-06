@@ -82,13 +82,16 @@
 </style>
 
 
-
 <div class="about" id="about">
 	<div class="container">
 		<div class="agile_info_top">
-			<div class="col-md-6 about_agile_info">
+			<div class="col-md-6 about_agile_info" style="
+    padding-top: 20px;
+">
 				<h2>Qué Ofrecemos</h2>
-				<ul>
+				<ul style="
+    padding: 2em;
+">
 					<li>Obras Civiles</li>
 					<li>Infraestructuras Sanitarias</li>
 					<li>Ingeniería de Proyectos</li>
@@ -97,7 +100,7 @@
 					<li>Montajes Industriales</li>
 					<li>Arquitectura</li>
 				</ul>
-			</br>
+			<br>
 			<div class="more">
 				<a href="#" class="hvr-shutter-in-vertical" data-toggle="modal" data-target="#myModal">Leer Más<span class="glyphicon glyphicon-arrow-right"></span></a>
 				</div>
@@ -105,12 +108,10 @@
 
 			<div class="col-md-6 agile_about_aits-image">
 				<div class="aboutaits-image-1">
-					<img src="images/que ofrecemos.jpg"
-					alt="Couture">
+					<img src="images/que ofrecemos.jpg" alt="Couture">
 				</div>
 				<div class="aboutaits-image-2">
-					<img src="images/que ofrecemos2.jpg"
-					alt="Couture">
+					<img src="images/que ofrecemos2.jpg" alt="Couture">
 				</div>
 				<div class="clearfix"></div>
 			</div>
@@ -119,12 +120,11 @@
 			<!-- Tooltip -->
 			<div class="tooltip-content">
 
-				<div class="modal fade features-modal" id="myModal" tabindex="-1" role="dialog" aria-hidden="true">
+				<div class="modal fade features-modal" id="myModal" tabindex="-1" role="dialog" aria-hidden="true" style="display: none;">
 					<div class="modal-dialog">
 						<div class="modal-content">
 							<div class="modal-header">
-								<button type="button" class="close" data-dismiss="modal"
-								aria-hidden="true">&times;</button>
+								<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
 								<h4 class="modal-title">Qué Ofrecemos</h4>
 							</div>
 							<div class="modal-body">

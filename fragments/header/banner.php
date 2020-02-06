@@ -16,13 +16,20 @@
 		
 	}
 
+	.fecha-abajo{
+		left: 400px;
+		float: right;
+		padding-right: 45%;
+		padding-bottom: 0px;
+		padding-top: 10%;
+	}
 </style>
 	<div class="banner_top" id="home">
 		<div data-vide-bg="video/v2">
 			<div class="center-container">
 				<div class="w3_agile_header">
 					<div class="w3_agileits_logo">
-						<img style="width: 20%;" src="images/Del Arte COnstructora orb.png" alt="">
+						<img class="logo-width-20" src="images/Del Arte COnstructora orb.png" alt="">
 						<!--<h1><a href="index.html">DEL ARTE<span>CONSTRUCCIONES</span</a> </h1> -->
 						<ul class="menu-extents" style="float:right;" >
 								<li><a href="#home" class="active scroll">Home</a></li>
@@ -90,13 +97,7 @@
 					</div>
 				</div>
 
-				<a href="#about" class="callbacks1_nav scroll" style="
-    left: 400px;
-    float: right;
-    padding-right: 45%;
-    padding-bottom: 0px;
-    padding-top: 10%;
-"><img src="images/flecha-hacia-abajo.png" style="width: 50%;"></a>
+				<a href="#about" class="callbacks1_nav fecha-abajo scroll" style=""><img src="images/flecha-hacia-abajo.png" style="width: 50%;"></a>
 				<!--banner Slider starts Here-->
 				<!--<div class="w3_agileits_social_media ">
 					<ul class="social-icons3">
