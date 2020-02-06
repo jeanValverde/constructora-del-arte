@@ -1627,7 +1627,7 @@ color: #111 !important;
 		font-size: 1.9em;
 	}
     .mobile-menu {
-		width: 23%;
+		width: 50%;
 	}
 }
 @media (max-width:1024px){
@@ -1973,7 +1973,7 @@ color: #111 !important;
 		letter-spacing: 2px;
 	}
 	.mobile-menu {
-		width: 27%;
+		width: 50%;
 	}
 	.about_agile_info h2 {
 		margin-bottom: 20px;
@@ -2177,7 +2177,7 @@ color: #111 !important;
 		letter-spacing: 4px;
 	}
 	.mobile-menu {
-		width: 44%;
+		width: 50%;
 	}
 	.mobile-menu ul li a {
       font-size: 0.9em;
