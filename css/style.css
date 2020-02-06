@@ -1731,7 +1731,7 @@ color: #111 !important;
 		margin-bottom: 24px;
 	}
 	.agileits_w3layouts_features_grid img {
-		width: 36%;
+		width: 100%;
 		margin: 0 auto;
 	}
 	.w3ls-agile-service-grid {
@@ -2200,12 +2200,12 @@ color: #111 !important;
 		margin-top: 0.5em;
 	}
 	.aboutaits-image-1 {
-		width: 74%;
+		width: 100%;
 		position: relative;
 		float: left;
 	}
 	.agileits_w3layouts_features_grid img {
-		width: 56%;
+		width: 100%;
 		margin: 0 auto;
 	}
 	.wthree-almubimg {
@@ -2228,10 +2228,10 @@ color: #111 !important;
 		height: 200px;
 	}
 	.aboutaits-image-2 {
-		width: 36%;
-		position: absolute;
-		top: -18%;
-		right: 199px;
+		width: 100%;
+		position: initial;
+		top: 0%;
+		right: 0px;
 	}
 	.news h4 {
 		font-size: 1.4em;
@@ -2298,8 +2298,8 @@ color: #111 !important;
 		letter-spacing: 3px;
 	}
 	.aboutaits-image-2 {
-		width: 36%;
-		position: absolute;
+		width: 100%;
+		position: initial;
 		top: -18%;
 		right: 163px;
 	}

@@ -40,7 +40,7 @@
 							</div>
 							<div class="w3-address-right">
 								<h6>Correo electrónico</h6>
-								<p class="color-white">Email :<a href="mailto:example@email.com"> mail@example.com</a>
+								<p class="color-white">Email :<a href="mailto:example@email.com"> constructora.delarte@gmail.com</a>
 								</p>
 							</div>
 							<div class="clearfix"> </div>
