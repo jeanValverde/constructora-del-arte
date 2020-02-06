@@ -25,7 +25,7 @@
 	}
 </style>
 	<div class="banner_top" id="home">
-		<div data-vide-bg="video/v2">
+		<div data-vide-bg="images/banner principal.jpg">
 			<div class="center-container">
 				<div class="w3_agile_header">
 					<div class="w3_agileits_logo">
@@ -42,30 +42,33 @@
 							</ul>
 					</div>
 					
-					<div class="w3_menu">
-						<div class="agileits_w3layouts_banner_info">
-
-						</div>
-						<div class="mobile-nav-button">
-							<div class="mobile-nav-button__line"></div>
-							<div class="mobile-nav-button__line"></div>
-							<div class="mobile-nav-button__line"></div>
-						</div>
-						<nav class="mobile-menu">
-							<ul>
-								<li><a href="#home" class="active scroll">Home</a></li>
-								<li><a href="#about" class="scroll">Qué Ofrecemos</a></li>
-								<li><a href="#news" class="scroll">Clientes</a></li>
-								<li><a href="#gallery" class="scroll">Proyectos Desarrollados</a></li>
-								<li><a href="#services" class="scroll">Servicios</a></li>
-								<li><a href="#testimonials" class="scroll">Proyectos en Ejecución</a></li>
-								<li><a href="#contact" class="scroll">Contacto</a></li>
-							</ul>
-						</nav>
-					</div>
-
 					<div class="clearfix"></div>
 				</div>
+
+				<div class="w3_menu">
+					<div class="agileits_w3layouts_banner_info">
+
+					</div>
+
+					<div class="mobile-nav-button">
+						<div class="mobile-nav-button__line"></div>
+						<div class="mobile-nav-button__line"></div>
+						<div class="mobile-nav-button__line"></div>
+					</div>
+					
+					<nav class="mobile-menu">
+						<ul>
+							<li><a href="#home" class="active scroll">Home</a></li>
+							<li><a href="#about" class="scroll">Qué Ofrecemos</a></li>
+							<li><a href="#news" class="scroll">Clientes</a></li>
+							<li><a href="#gallery" class="scroll">Proyectos Desarrollados</a></li>
+							<li><a href="#services" class="scroll">Servicios</a></li>
+							<li><a href="#testimonials" class="scroll">Proyectos en Ejecución</a></li>
+							<li><a href="#contact" class="scroll">Contacto</a></li>
+						</ul>
+					</nav>
+				</div>
+
 				<!-- banner-text -->
 				<div class="slider">
 					<div class="callbacks_container">

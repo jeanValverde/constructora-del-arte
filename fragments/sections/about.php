@@ -20,7 +20,7 @@
 .accordion-titulo {
     position: relative;
     display: block;
-    padding: 20px;
+    padding: 10px;
     font-size: 24px;
     font-weight: 300;
     background: #606060;
@@ -48,7 +48,7 @@
 
 .accordion-titulo span.toggle-icon {
     position: absolute;
-    top: 10px;
+    top: 0px;
     right: 20px;
     font-size: 38px;
     font-weight:bold;
