@@ -1706,13 +1706,13 @@ color: #111 !important;
 		padding: 4em 0 4em 0;
 	}
 	.aboutaits-image-1 {
-		width: 47%;
+		width: 100%;
 		position: relative;
 		float: left;
 	}
 	.aboutaits-image-2 {
-		width: 36%;
-		position: absolute;
+		width: 100%;
+		position: initial;
 		top: -18%;
 		right: 238px;
 	}
