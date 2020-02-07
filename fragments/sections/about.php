@@ -61,7 +61,7 @@
 }
 
 .accordion-content p{
-    margin:0;
+    margin:10px;
 }
 
 .accordion-content img {

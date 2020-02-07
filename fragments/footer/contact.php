@@ -43,9 +43,8 @@
 				</div>
 				<div class="col-lg-6 col-md-6 col-sm-6 contact-w3-agile1 map" data-aos="flip-right">
 
-					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3344.7496060773883!2d-71.53245918421167!3d-33.03672668378518!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9689de63fb06f1b7%3A0x9aa7bfce62d57b12!2sMiraflores%2C%20Vi%C3%B1a%20del%20Mar%2C%20Valpara%C3%ADso!5e0!3m2!1ses!2scl!4v1580997585316!5m2!1ses!2scl" 
-						class="map"  frameborder="0" style="border:0;" allowfullscreen=""></iframe>
-
+						 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1672.1177214363229!2d-71.5962667!3d-33.0502678!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9689e0bf9a0e320d%3A0xe272f0e89517356d!2sJos%C3%A9%20Moreno%201005%2C%20Valpara%C3%ADso!5e0!3m2!1ses-419!2scl!4v1581011843849!5m2!1ses-419!2scl" 
+						 class="map" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 				</div>
 				<div class="clearfix"></div>
 			</div>

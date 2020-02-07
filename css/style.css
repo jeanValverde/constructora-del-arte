@@ -354,7 +354,7 @@ li.dropdown.act a.w3_icons_act {
        font-size: 0.9em;
     text-transform: uppercase;
     letter-spacing: 24px;
-    color: #DF0101;
+    color: rgba(229, 229, 230, 0.44);
     font-weight: 600;
 }
 .w3_agileits_social_media {
@@ -775,8 +775,8 @@ h3.agile-tittle.two.gal.test {
 }
 .w3ls-agile-service-grid {
     background: #8c8c8c;
-	   padding: 5.48em 2em;
-	   height: 500px;
+	   padding: 1.48em 2em;
+	   height: 400px;
 }
 .icon-right p {
     color: #fff;
@@ -813,7 +813,8 @@ h3.agile-tittle.two.gal.test {
     padding: 0;
 }
 .agileits_w3layouts_features_grid img{
-	width:100%;
+	width: 379px;
+    height: 800px;
 }
 .icon-right h5 {
        color: #ffffff;
@@ -1804,6 +1805,7 @@ color: #111 !important;
 	}
 	.w3-agile-grid {
 		padding: 0;
+		-webkit-margin-top-collapse: discard;
 	}
 	.w3-agile-grid:nth-child(2) {
 		margin:2em 0;
@@ -1855,7 +1857,7 @@ color: #111 !important;
 		padding-top: 7em;
 	}
 	.callbacks_nav {
-		bottom: -57%;
+		bottom: -35%;
 	}
 	.center-container {
 		padding: 2em 0 32em;
@@ -1927,6 +1929,18 @@ color: #111 !important;
 
 }
 @media (max-width:667px){
+
+	
+.color-special-dark{
+	background: #757575 !important;
+	height: 250px;
+}
+
+.color-special-white{
+	background: #8c8c8c !important;
+	height: 250px;
+}
+
 	.agileits-banner-info h3 {
 		font-size:3em;
 		letter-spacing:4px;
@@ -2016,6 +2030,21 @@ color: #111 !important;
 	}
 }
 @media (max-width:600px){
+
+	.accordion-titulo{
+		font-size: 17px !important;
+
+	}
+
+	.accordion-titulo span.toggle-icon{
+		right: 20px !important;
+		font-size: 30px !important;
+	}
+
+	#container-main{
+		min-width: 0px !important;
+	}
+
 	.callbacks_nav.prev {
 		left: auto;
 		background: rgba(0, 0, 0, 0.64) url(../images/left.png) no-repeat 2px 8px;
@@ -2042,6 +2071,7 @@ color: #111 !important;
 	}
 }
 @media (max-width:568px){
+	
 	.agileits_w3layouts_banner_info {
 		width: 90%;
 	}
@@ -2158,7 +2188,7 @@ color: #111 !important;
 	}
 	.agileits_w3layouts_banner_info {
 		width: 90%;
-		padding-top: 4.5em;
+		padding-top: 0.5em;
 	}
 	.agileits_w3layouts_banner_info form {
 		width: 100%;
@@ -2208,6 +2238,7 @@ color: #111 !important;
 	.agileits_w3layouts_features_grid img {
 		width: 100%;
 		margin: 0 auto;
+		height: auto;
 	}
 	.wthree-almubimg {
 		min-height: 165px;

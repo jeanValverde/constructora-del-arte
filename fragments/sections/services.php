@@ -1,20 +1,22 @@
 <style>
 .top-131{
-	padding-top: 131%;
+	padding-top: 105%;
 }
+
+
+
 </style>
 
 <div class="w3_tittle second two">
 	<h3 class="agile-tittle two gal">Servicios</h3>
 	<div class="line-style second"><span class="second"></span></div>
 </div>
-
 <div class="features" id="services">
 	<div class="container">
 		<div class="agileits_w3layouts_features_grids">
 
 			<div class="col-md-4 agileits_w3layouts_features_grid">
-				<img src="images/servicios.jpg" alt=" " class="img-responsive top-131" >
+				<img src="images/servicios.jpg" alt=" " class="img-responsive top-131">
 			</div>
 			<div class="col-md-8 agileits_w3layouts_sercvices">
 
@@ -40,7 +42,7 @@
 						</div><br>
 					</div>
 
-					<div class="col-md-6 w3ls-agile-service-grid">
+					<div class="col-md-6 color-special-white w3ls-agile-service-grid">
 						<div class="agileits-icon-grid">
 							<div class="icon-right">
 								<i class="fa fa-globe" aria-hidden="true"></i>
@@ -50,7 +52,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-md-6 w3ls-agile-service-grid">
+					<div class="col-md-6 color-special color-special-dark w3ls-agile-service-grid">
 						<div class="agileits-icon-grid">
 							<div class="icon-right">
 								<i class="fa fa-check-square" aria-hidden="true"></i>
@@ -71,7 +73,7 @@
 						</div>
 					</div>
 
-					<div class="col-md-6 w3ls-agile-service-grid" style="
+					<div class="col-md-6 color-special-dark w3ls-agile-service-grid" style="
     background: #757575;
 ">
 						<div class="agileits-icon-grid">
