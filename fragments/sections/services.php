@@ -73,7 +73,7 @@
 						</div>
 					</div>
 
-					<div class="col-md-6 color-special-dark w3ls-agile-service-grid" style="
+					<div class="col-md-6 color-special-dark w3ls-agile-service-grid height-service-350" style="
     background: #757575;
 ">
 						<div class="agileits-icon-grid">
