@@ -481,7 +481,7 @@ li.agileinfo_share {
     -webkit-tap-highlight-color: rgba(0,0,0,0);
     bottom: -59%;
     left: 40px;
-    opacity: 0.7;
+    opacity: 0.3;
     z-index: 3;
     text-indent: -9999px;
     overflow: hidden;
@@ -949,6 +949,7 @@ li.agileinfo_share.team {
     color: #c5c4c4;
     line-height: 2.2;
     margin: 1.5em 0 2em;
+    text-align: justify;
 }
 /*-- //news --*/
 /*-- gallery --*/
@@ -1177,7 +1178,8 @@ li.agileinfo_share.team {
 	position: absolute;
 	cursor: pointer;
 	z-index: 100;
-	    top: 47% !important;
+	top: 47% !important;
+	opacity: 0.3;
 }
 .nbs-flexisel-nav-left {
 	left: 13%;
