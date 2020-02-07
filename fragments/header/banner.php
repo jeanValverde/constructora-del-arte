@@ -75,8 +75,8 @@
 						<ul class="rslides callbacks callbacks1" id="slider4">
 							<li>
 								<div class="agileits-banner-info">
-									<h4>Servicios de exelencia</h4>
-									<h3>En ingeniería y contrucción</h3>
+									<h4>Servicios de excelencia</h4>
+									<h3>En ingeniería y construcción</h3>
 									<p>Constructora del Arte</p>
 								</div>
 							</li>

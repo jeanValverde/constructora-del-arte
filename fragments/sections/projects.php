@@ -14,7 +14,7 @@
 						<div class="nd-content">
 							<div class="nd-content_inner">
 								<div class="nd-content_inner1">
-									<h4 class="nd-title">ESPACIOS PUBLICOS</h4>
+									<h4 class="nd-title">ESPACIOS PÚBLICOS</h4>
 									<span class="nd-icon">
 										<i class="glyphicon glyphicon-eye-open"></i>
 									</span>
